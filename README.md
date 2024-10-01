@@ -30,7 +30,6 @@
 <a href="https://railway.app/template/b5k2mn?referralCode=HI9hWz">
   <img src="https://railway.app/button.svg" alt="Deploy on Railway" height="30">
 </a>
-<a href="https://zeabur.com/templates/0X2ZY8">
  [![Deployed on Zeabur](https://zeabur.com/deployed-on-zeabur-dark.svg)](https://zeabur.com?referralCode=mikesmith9532&utm_source=mikesmith9532&utm_campaign=oss)
 </a>
 <a href="https://template.cloud.sealos.io/deploy?templateName=librechat">
