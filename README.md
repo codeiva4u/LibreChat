@@ -31,7 +31,7 @@
   <img src="https://railway.app/button.svg" alt="Deploy on Railway" height="30">
 </a>
 <a href="https://zeabur.com/templates/0X2ZY8">
-  <img src="https://zeabur.com/button.svg" alt="Deploy on Zeabur" height="30"/>
+ [![Deployed on Zeabur](https://zeabur.com/deployed-on-zeabur-dark.svg)](https://zeabur.com?referralCode=mikesmith9532&utm_source=mikesmith9532&utm_campaign=oss)
 </a>
 <a href="https://template.cloud.sealos.io/deploy?templateName=librechat">
   <img src="https://raw.githubusercontent.com/labring-actions/templates/main/Deploy-on-Sealos.svg" alt="Deploy on Sealos" height="30">
@@ -87,8 +87,6 @@ With LibreChat, you no longer need to opt for ChatGPT Plus and can instead use f
 Click on the thumbnail to open the video☝️
 
 ---
-
-[![Deployed on Zeabur](https://zeabur.com/deployed-on-zeabur-dark.svg)](https://zeabur.com?referralCode=mikesmith9532&utm_source=mikesmith9532&utm_campaign=oss)
 
 ## 🌐 Resources
 
