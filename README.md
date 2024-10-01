@@ -88,6 +88,8 @@ Click on the thumbnail to open the video☝️
 
 ---
 
+[![Deployed on Zeabur](https://zeabur.com/deployed-on-zeabur-dark.svg)](https://zeabur.com?referralCode=mikesmith9532&utm_source=mikesmith9532&utm_campaign=oss)
+
 ## 🌐 Resources
 
 **GitHub Repo:**
